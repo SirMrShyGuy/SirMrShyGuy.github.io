@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+
+/*Tags*/
+/* noctua beige d6c6aa*/
+body{
+    background-color: darkgray;
+}
+
+header{
+    background-color: rgb(35, 35, 35);
+    color: white;
+
+    border-radius: 15px;}
+
+    header .header-title{
+        color: white;
+    };
+
+    header .header-title-secondary {
+        color: darkgray;
+    }
+
+main{
+
+}
+
+footer{
+    background-color: rgb(35, 35, 35);
+    color: white;
+
+    border-radius: 15px;
+}
+
+nav{
+    padding: 10px;
+}
+
+nav{
+    text-indent: 0px;
+}
+
+
+
+
+
+
